@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PavloHolotyuk/goit-react-hw-04-images/static/css/main.6da66d32.css",
+    "main.js": "/PavloHolotyuk/goit-react-hw-04-images/static/js/main.4df50afb.js",
+    "index.html": "/PavloHolotyuk/goit-react-hw-04-images/index.html",
+    "main.6da66d32.css.map": "/PavloHolotyuk/goit-react-hw-04-images/static/css/main.6da66d32.css.map",
+    "main.4df50afb.js.map": "/PavloHolotyuk/goit-react-hw-04-images/static/js/main.4df50afb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6da66d32.css",
+    "static/js/main.4df50afb.js"
+  ]
+}
